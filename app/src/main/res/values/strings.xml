@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="next_button_label">Suivant</string>
+    <string name="placeholder_value">Valeur ?</string>
+    <string name="button_movie">Les films</string>
+    <string name="detail_release_date_label">Date de sortie :</string>
+    <string name="placeholder_search">Recherche</string>
+    <string name="film_logo">FILM LOGO</string>
+    <string name="textviewdescription">TextViewDescription</string>
+    <string name="textviewdate">TextViewDate</string>
+</resources>
